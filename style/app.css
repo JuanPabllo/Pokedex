@@ -1,5 +1,11 @@
 body {
-  background-color: orangered;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 5%,
+    rgba(9, 121, 90, 1) 38%,
+    rgba(0, 212, 255, 1) 94%
+  );
   margin: 0;
   font-family: rubik;
   color: white;
