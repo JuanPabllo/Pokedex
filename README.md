@@ -1,2 +1,2 @@
-:Pokebola: # Pokedex
+# Pokedex
 A Pokedex with Vanilla JavaScript
